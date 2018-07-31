@@ -1,2 +1,2 @@
-# imagJapeneseSpitz
+# imagSpitz
 Website
